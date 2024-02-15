@@ -4,4 +4,8 @@ numpy
 opencv-python
 requests
 Keras
+<<<<<<< HEAD
 tensorflow
+=======
+tensorflow
+>>>>>>> daf6ad3a7e7b35f10352f402ae9a1c56862124de
