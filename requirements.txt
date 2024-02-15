@@ -1,5 +1,3 @@
 Flask
 numpy
-opencv-python
-requests
 Keras
