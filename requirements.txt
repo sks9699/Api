@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+numpy
+opencv-python
+requests
+Keras
+tensorflow
