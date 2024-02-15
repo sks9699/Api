@@ -25,13 +25,6 @@ ref = {
     11: "Pongamia Pinnata (P7)",
 }
 
-
-@app.route("/")
-def home():
-    return render_template("index.html")
-
-
-@app.route("/predict/", methods=["POST"])
 @app.route("/predict/", methods=["POST"])
 def predict():
     # Get JSON data from the request
